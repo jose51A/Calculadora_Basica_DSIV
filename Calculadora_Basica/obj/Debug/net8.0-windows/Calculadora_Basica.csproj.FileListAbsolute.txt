@@ -1,0 +1,16 @@
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\Calculadora_Basica.csproj.GenerateResource.cache
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\Calculadora_Basica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\Calculadora_Basica.AssemblyInfoInputs.cache
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\Calculadora_Basica.AssemblyInfo.cs
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\Calculadora_Basica.csproj.CoreCompileInputs.cache
+C:\Users\MACHI\source\repos\Calculadora_Basica\bin\Debug\net8.0-windows\Calculadora_Basica.exe
+C:\Users\MACHI\source\repos\Calculadora_Basica\bin\Debug\net8.0-windows\Calculadora_Basica.deps.json
+C:\Users\MACHI\source\repos\Calculadora_Basica\bin\Debug\net8.0-windows\Calculadora_Basica.runtimeconfig.json
+C:\Users\MACHI\source\repos\Calculadora_Basica\bin\Debug\net8.0-windows\Calculadora_Basica.dll
+C:\Users\MACHI\source\repos\Calculadora_Basica\bin\Debug\net8.0-windows\Calculadora_Basica.pdb
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\CalculadoraBasica.CalculatorForm.resources
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\Calculadora_Basica.dll
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\refint\Calculadora_Basica.dll
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\Calculadora_Basica.pdb
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\Calculadora_Basica.genruntimeconfig.cache
+C:\Users\MACHI\source\repos\Calculadora_Basica\obj\Debug\net8.0-windows\ref\Calculadora_Basica.dll
