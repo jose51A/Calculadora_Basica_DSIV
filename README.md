@@ -2,6 +2,4 @@
 Este es el repositorio de el programa de calculadora básica desarrollado con GUI, con validaciones.
 
 Realizado por los estudiantes:
-José Rodríguez
-
-Armando Urvina
+José Rodríguez, Armando Urvina
